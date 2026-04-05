@@ -1,0 +1,4 @@
+#si no usas librerías externas,, puedes dejarlo vacío
+#Pero si usas rich, pydantic,, etc.:
+#rich==13.7.0
+#pydantic==2.6.0
